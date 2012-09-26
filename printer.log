@@ -1,0 +1,76 @@
+2012-09-21 23:50:42,288 INFO main logExtraction.CreatePrinterLogCSV - Starting to run maintenance
+2012-09-21 23:50:42,294 INFO main logExtraction.CreatePrinterLogCSV - Loading properties file
+2012-09-21 23:50:42,296 INFO main logExtraction.CreatePrinterLogCSV - Trying to create database connection.
+2012-09-21 23:50:42,596 INFO main logExtraction.CreatePrinterLogCSV - Connected with connection string jdbc:jtds:sqlserver://localhost:1433/printer;
+2012-09-21 23:50:42,597 INFO main logExtraction.CreatePrinterLogCSV - Trying to test parsing sample file.. 9Aug2012.csv
+2012-09-21 23:50:42,597 INFO main logExtraction.CreatePrinterLogCSV - Trying to parse CSV file.
+2012-09-21 23:50:43,826 FATAL main logExtraction.CreatePrinterLogCSV - Problem with loading data into database.Invalid object name 'printing.TEMPAug2012'.
+2012-09-21 23:50:43,828 INFO main logExtraction.CreatePrinterLogCSV - Values of incorrect data: 108109109 A4-4515x 1790  Microsoft Word - VIPUL_KUMAR_ECE 2012-08-24 11:02:36.0
+2012-09-21 23:52:37,260 INFO main logExtraction.CreatePrinterLogCSV - Starting to run maintenance
+2012-09-21 23:52:37,269 INFO main logExtraction.CreatePrinterLogCSV - Loading properties file
+2012-09-21 23:52:37,270 INFO main logExtraction.CreatePrinterLogCSV - Trying to create database connection.
+2012-09-21 23:52:37,513 INFO main logExtraction.CreatePrinterLogCSV - Connected with connection string jdbc:jtds:sqlserver://localhost:1433/printer;
+2012-09-21 23:52:37,513 INFO main logExtraction.CreatePrinterLogCSV - Trying to test parsing sample file.. 9Aug2012.csv
+2012-09-21 23:52:37,514 INFO main logExtraction.CreatePrinterLogCSV - Trying to parse CSV file.
+2012-09-21 23:52:38,493 FATAL main logExtraction.CreatePrinterLogCSV - Problem with loading data into database.Incorrect syntax near 'filename'.
+2012-09-21 23:52:38,497 INFO main logExtraction.CreatePrinterLogCSV - Values of incorrect data: 108109109 A4-4515x 1790  Microsoft Word - VIPUL_KUMAR_ECE 2012-08-24 11:02:36.0
+2012-09-21 23:53:38,006 INFO main logExtraction.CreatePrinterLogCSV - Starting to run maintenance
+2012-09-21 23:53:38,010 INFO main logExtraction.CreatePrinterLogCSV - Loading properties file
+2012-09-21 23:53:38,012 INFO main logExtraction.CreatePrinterLogCSV - Trying to create database connection.
+2012-09-21 23:53:38,213 INFO main logExtraction.CreatePrinterLogCSV - Connected with connection string jdbc:jtds:sqlserver://localhost:1433/printer;
+2012-09-21 23:53:38,214 INFO main logExtraction.CreatePrinterLogCSV - Trying to test parsing sample file.. 9Aug2012.csv
+2012-09-21 23:53:38,215 INFO main logExtraction.CreatePrinterLogCSV - Trying to parse CSV file.
+2012-09-21 23:53:39,112 FATAL main logExtraction.CreatePrinterLogCSV - Problem with loading data into database.Incorrect syntax near 'filename'.
+2012-09-21 23:53:39,113 INFO main logExtraction.CreatePrinterLogCSV - Values of incorrect data: 108109109 A4-4515x 1790  Microsoft Word - VIPUL_KUMAR_ECE 2012-08-24 11:02:36.0
+2012-09-21 23:55:54,123 INFO main logExtraction.CreatePrinterLogCSV - Starting to run maintenance
+2012-09-21 23:55:54,129 INFO main logExtraction.CreatePrinterLogCSV - Loading properties file
+2012-09-21 23:55:54,131 INFO main logExtraction.CreatePrinterLogCSV - Trying to create database connection.
+2012-09-21 23:55:54,331 INFO main logExtraction.CreatePrinterLogCSV - Connected with connection string jdbc:jtds:sqlserver://localhost:1433/printer;
+2012-09-21 23:55:54,332 INFO main logExtraction.CreatePrinterLogCSV - Trying to test parsing sample file.. 9Aug2012.csv
+2012-09-21 23:55:54,332 INFO main logExtraction.CreatePrinterLogCSV - Trying to parse CSV file.
+2012-09-21 23:55:55,298 FATAL main logExtraction.CreatePrinterLogCSV - Problem with loading data into database.Incorrect syntax near 'filename'.
+2012-09-21 23:55:55,299 INFO main logExtraction.CreatePrinterLogCSV - Values of incorrect data: 108109109 A4-4515x 1790  Microsoft Word - VIPUL_KUMAR_ECE 2012-08-24 11:02:36.0
+2012-09-21 23:56:49,945 INFO main logExtraction.CreatePrinterLogCSV - Starting to run maintenance
+2012-09-21 23:56:49,949 INFO main logExtraction.CreatePrinterLogCSV - Loading properties file
+2012-09-21 23:56:49,951 INFO main logExtraction.CreatePrinterLogCSV - Trying to create database connection.
+2012-09-21 23:56:50,143 INFO main logExtraction.CreatePrinterLogCSV - Connected with connection string jdbc:jtds:sqlserver://localhost:1433/printer;
+2012-09-21 23:56:50,144 INFO main logExtraction.CreatePrinterLogCSV - Trying to test parsing sample file.. 9Aug2012.csv
+2012-09-21 23:56:50,154 INFO main logExtraction.CreatePrinterLogCSV - Trying to parse CSV file.
+2012-09-21 23:56:53,040 FATAL main logExtraction.CreatePrinterLogCSV - Problem with loading data into database.Data truncation
+2012-09-21 23:56:53,041 INFO main logExtraction.CreatePrinterLogCSV - Values of incorrect data: 308111051 HP Color LaserJet 9500 PCL 6 1549  5 x 7 in. cutout prints 2012-08-24 09:11:02.0
+2012-09-21 23:58:46,788 INFO main logExtraction.CreatePrinterLogCSV - Starting to run maintenance
+2012-09-21 23:58:46,792 INFO main logExtraction.CreatePrinterLogCSV - Loading properties file
+2012-09-21 23:58:46,793 INFO main logExtraction.CreatePrinterLogCSV - Trying to create database connection.
+2012-09-21 23:58:46,977 INFO main logExtraction.CreatePrinterLogCSV - Connected with connection string jdbc:jtds:sqlserver://localhost:1433/printer;
+2012-09-21 23:58:46,978 INFO main logExtraction.CreatePrinterLogCSV - Trying to test parsing sample file.. 9Aug2012.csv
+2012-09-21 23:58:46,979 INFO main logExtraction.CreatePrinterLogCSV - Trying to parse CSV file.
+2012-09-21 23:59:45,041 INFO main logExtraction.CreatePrinterLogCSV - Comitting transaction
+2012-09-21 23:59:45,046 INFO main logExtraction.CreatePrinterLogCSV - Closing all resources
+2012-09-21 23:59:45,050 INFO main logExtraction.CreatePrinterLogCSV - Completing service maintenance.
+2012-09-23 11:52:31,732 INFO main logExtraction.CreatePrinterLogCSV - Starting to run maintenance
+2012-09-23 11:52:31,753 INFO main logExtraction.CreatePrinterLogCSV - Loading properties file
+2012-09-23 11:52:31,754 INFO main logExtraction.CreatePrinterLogCSV - Trying to create database connection.
+2012-09-23 11:52:31,957 INFO main logExtraction.CreatePrinterLogCSV - Starting to run maintenance
+2012-09-23 11:52:31,962 INFO main logExtraction.CreatePrinterLogCSV - Loading properties file
+2012-09-23 11:52:31,969 INFO main logExtraction.CreatePrinterLogCSV - Trying to create database connection.
+2012-09-23 11:52:32,201 INFO main logExtraction.CreatePrinterLogCSV - Connected with connection string jdbc:jtds:sqlserver://localhost:1433/printer;
+2012-09-23 11:52:32,201 INFO main logExtraction.CreatePrinterLogCSV - Trying to test parsing sample file.. 9Aug2012.csv
+2012-09-23 11:52:32,202 INFO main logExtraction.CreatePrinterLogCSV - Trying to parse CSV file.
+2012-09-23 11:52:32,203 INFO main logExtraction.CreatePrinterLogCSV - Connected with connection string jdbc:jtds:sqlserver://localhost:1433/printer;
+2012-09-23 11:52:32,204 INFO main logExtraction.CreatePrinterLogCSV - Trying to test parsing sample file.. 9Aug2012.csv
+2012-09-23 11:52:32,204 INFO main logExtraction.CreatePrinterLogCSV - Trying to parse CSV file.
+2012-09-23 11:53:18,721 INFO main logExtraction.CreatePrinterLogCSV - Comitting transaction
+2012-09-23 11:53:18,728 INFO main logExtraction.CreatePrinterLogCSV - Closing all resources
+2012-09-23 11:53:18,731 INFO main logExtraction.CreatePrinterLogCSV - Completing service maintenance.
+2012-09-23 11:54:10,657 INFO main logExtraction.CreatePrinterLogCSV - Comitting transaction
+2012-09-23 11:54:10,662 INFO main logExtraction.CreatePrinterLogCSV - Closing all resources
+2012-09-23 11:54:10,667 INFO main logExtraction.CreatePrinterLogCSV - Completing service maintenance.
+2012-09-23 11:55:26,329 INFO main logExtraction.CreatePrinterLogCSV - Starting to run maintenance
+2012-09-23 11:55:26,332 INFO main logExtraction.CreatePrinterLogCSV - Loading properties file
+2012-09-23 11:55:26,334 INFO main logExtraction.CreatePrinterLogCSV - Trying to create database connection.
+2012-09-23 11:55:26,496 INFO main logExtraction.CreatePrinterLogCSV - Connected with connection string jdbc:jtds:sqlserver://localhost:1433/printer;
+2012-09-23 11:55:26,497 INFO main logExtraction.CreatePrinterLogCSV - Trying to test parsing sample file.. 9Aug2012.csv
+2012-09-23 11:55:26,497 INFO main logExtraction.CreatePrinterLogCSV - Trying to parse CSV file.
+2012-09-23 11:56:11,455 INFO main logExtraction.CreatePrinterLogCSV - Comitting transaction
+2012-09-23 11:56:11,458 INFO main logExtraction.CreatePrinterLogCSV - Closing all resources
+2012-09-23 11:56:11,461 INFO main logExtraction.CreatePrinterLogCSV - Completing service maintenance.
